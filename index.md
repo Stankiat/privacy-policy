@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Effective Date: [ENTER DATE]
+Effective Date: [12. February 2026]
 
-Thank you for playing [YOUR GAME NAME].
+Thank you for playing [Swing Dash Geometry].
 
 This Privacy Policy explains how we handle information in connection with your use of the game.
 
@@ -59,4 +59,4 @@ Updates will be posted on this page.
 
 If you have questions, please contact:
 
-Email: [YOUR EMAIL ADDRESS]
+Email: [StankiatProduction@gmail.com]
